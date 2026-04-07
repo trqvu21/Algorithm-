@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0383-ransom-note](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -77,6 +79,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0383-ransom-note](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -147,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0707-design-linked-list/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
