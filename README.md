@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -15,6 +16,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
