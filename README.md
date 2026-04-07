@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0179-largest-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -35,6 +36,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0561-array-partition/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
@@ -48,6 +50,7 @@
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0179-largest-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
@@ -100,6 +103,7 @@
 | [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0179-largest-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
