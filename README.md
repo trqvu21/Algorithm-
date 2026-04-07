@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0383-ransom-note](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -81,6 +82,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0383-ransom-note](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -123,6 +125,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Prefix Sum
