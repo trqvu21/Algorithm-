@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -61,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
