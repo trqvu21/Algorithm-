@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?envType=problem-list-v2&envId=w5zahxti
 class Solution {
 public:
     int minAddToMakeValid(string s) {
