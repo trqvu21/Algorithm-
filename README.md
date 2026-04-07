@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0383-ransom-note](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -74,6 +76,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -83,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0383-ransom-note](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0383-ransom-note/) | Easy |
