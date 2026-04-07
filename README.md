@@ -39,6 +39,7 @@
 | [0495-teemo-attacking](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
 ## Two Pointers
@@ -118,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
