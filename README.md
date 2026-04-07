@@ -17,6 +17,7 @@
 | [0796-rotate-string](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -34,6 +35,7 @@
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1544-make-the-string-great/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
