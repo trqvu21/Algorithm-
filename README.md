@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0796-rotate-string](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -30,6 +31,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +103,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 <!---LeetCode Topics End-->
