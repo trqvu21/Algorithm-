@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
