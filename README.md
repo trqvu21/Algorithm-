@@ -108,6 +108,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +194,7 @@
 | [0069-sqrtx](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 ## Depth-First Search
