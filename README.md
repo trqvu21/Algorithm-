@@ -1,4 +1,3 @@
-# bai-tap-leetcode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
