@@ -79,6 +79,7 @@
 | [1388-pizza-with-3n-slices](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@
 | [0547-number-of-provinces](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0994-rotting-oranges](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,4 +285,5 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 <!---LeetCode Topics End-->
