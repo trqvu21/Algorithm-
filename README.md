@@ -74,6 +74,7 @@
 | [0739-daily-temperatures](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -224,6 +225,7 @@
 | [0200-number-of-islands](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0994-rotting-oranges](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,4 +282,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
