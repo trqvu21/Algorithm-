@@ -42,6 +42,7 @@
 | [0179-largest-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0561-array-partition/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1388-pizza-with-3n-slices](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1388-pizza-with-3n-slices](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
@@ -188,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [1388-pizza-with-3n-slices](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,4 +268,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1388-pizza-with-3n-slices](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 <!---LeetCode Topics End-->
