@@ -88,6 +88,7 @@
 | [0556-next-greater-element-iii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0704-binary-search/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@
 | [0367-valid-perfect-square](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,4 +261,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 <!---LeetCode Topics End-->
