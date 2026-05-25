@@ -218,6 +218,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -226,6 +227,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -268,6 +270,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -277,6 +280,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Interactive
