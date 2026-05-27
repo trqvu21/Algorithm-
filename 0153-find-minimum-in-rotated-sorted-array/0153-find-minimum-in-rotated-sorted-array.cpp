@@ -3,19 +3,12 @@ class Solution {
 public:
 
     int findMin(vector<int>& nums) {
-  
-        int min_val = nums[0]; 
-
- 
-        for (int i = 1; i < nums.size(); i++) {
-            
-
-            if (nums[i] < min_val) {
-                
-                min_val = nums[i];
+        int min = nums[0];
+        for(int i = 0; i<nums.size() ; i++){
+            if(nums[i]<min){
+                min = nums[i];
             }
         }
-
-        return min_val;
+        return min;
     }
 };
