@@ -225,6 +225,7 @@
 | [0226-invert-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
@@ -236,6 +237,7 @@
 | [0226-invert-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -279,6 +281,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
