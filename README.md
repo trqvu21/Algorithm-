@@ -35,6 +35,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1544-make-the-string-great/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -262,6 +264,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0707-design-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
