@@ -4,6 +4,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0179-largest-number/) | Medium |
@@ -89,6 +90,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -201,6 +203,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Sliding Window
