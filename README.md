@@ -5,6 +5,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0179-largest-number/) | Medium |
@@ -154,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -221,6 +223,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
