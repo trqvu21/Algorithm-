@@ -220,6 +220,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
