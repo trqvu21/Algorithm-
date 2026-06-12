@@ -6,6 +6,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0179-largest-number/) | Medium |
@@ -51,6 +52,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -325,4 +327,8 @@
 | [0733-flood-fill](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
