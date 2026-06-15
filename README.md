@@ -240,6 +240,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -253,6 +254,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -301,6 +303,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -314,6 +317,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
